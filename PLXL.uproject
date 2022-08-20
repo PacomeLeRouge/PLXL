@@ -22,7 +22,7 @@
 		},
 		{
 			"Name": "CesiumForUnreal",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/87b0d05800a545d49bf858ef3458c4f7",
 			"SupportedTargetPlatforms": [
 				"Win64",
@@ -31,6 +31,10 @@
 				"Android",
 				"IOS"
 			]
+		},
+		{
+			"Name": "PixelStreaming",
+			"Enabled": true
 		}
 	]
 }
